@@ -2,13 +2,13 @@
 
 # utwór
 
-welcome to **utwór**, a team created by two friends sharing the same love for coding and solving problems.
+welcome to **utwór**, a study group created by two friends sharing the same love for coding and solving problems.
 <br/>
 in this repository you'll find brief information about the team, its members and contact infos.
 
 ## about us
 
-after becoming great friends in university and working together, we wanted to solve problems for both our and the general public's everyday life.
+after becoming great friends in university and working together, we wanted to solve problems for both our and the general public's everyday life, and share our personal projects.
 <br/>
 the name comes from the great passion we both have for music and arts in general, alongside some polish interest from one of the parts involved in this project. it roughly means a musical piece, work, song.
 
