@@ -16,7 +16,7 @@ the name comes from the great passion we both have for music and arts in general
 
 | name | profile |
 | - | - |
-| giovanni braga | [github](https://github.com/giovannibragasv) / [linkedin](www.linkedin.com/in/giovannivasconcelos)|
+| giovanni braga | [github](https://github.com/giovannibragasv) / [linkedin](https://www.linkedin.com/in/giovannivasconcelos)|
 | henrique pereira | [github](https://github.com/henriquepmartins) / [linkedin](https://www.linkedin.com/in/henriquepereiramartins)|
 
 ## our goals
